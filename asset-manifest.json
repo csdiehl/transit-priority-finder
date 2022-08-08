@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/transit-priority-finder/static/css/main.53a1c4bf.css",
+    "main.js": "/transit-priority-finder/static/js/main.6d21508e.js",
+    "static/js/787.b250f72f.chunk.js": "/transit-priority-finder/static/js/787.b250f72f.chunk.js",
+    "static/media/Frequency.md": "/transit-priority-finder/static/media/Frequency.356c08be732f3916061e.md",
+    "static/media/Variability.md": "/transit-priority-finder/static/media/Variability.3d7acd3b54ce1a231454.md",
+    "static/media/TravelTime.md": "/transit-priority-finder/static/media/TravelTime.a6156607a236cac44d5d.md",
+    "index.html": "/transit-priority-finder/index.html",
+    "static/media/OM.md": "/transit-priority-finder/static/media/OM.b84f3f9366edc72dd6e7.md",
+    "static/media/Xpt.md": "/transit-priority-finder/static/media/Xpt.b98cfca7ce1eefb6662c.md",
+    "main.53a1c4bf.css.map": "/transit-priority-finder/static/css/main.53a1c4bf.css.map",
+    "main.6d21508e.js.map": "/transit-priority-finder/static/js/main.6d21508e.js.map",
+    "787.b250f72f.chunk.js.map": "/transit-priority-finder/static/js/787.b250f72f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a1c4bf.css",
+    "static/js/main.6d21508e.js"
+  ]
+}
